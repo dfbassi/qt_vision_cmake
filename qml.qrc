@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CameraTile.qml</file>
+        <file>ControlButton.qml</file>
+        <file>FrameChangeGroup.qml</file>
+        <file>RecordingDot.qml</file>
+        <file>ControlToolBar.qml</file>
+    </qresource>
+</RCC>
